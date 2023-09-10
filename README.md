@@ -1,4 +1,4 @@
-# Olá, meu nome é Enzo, e seja bem-vindo ao meu GitHub! 😊
+# Olá, meu nome é Enzo, e seja bem-vindo ao meu GitHub!
 
 <div align="">
   <a href="https://github.com/enzocarvalhotech">
