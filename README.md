@@ -116,7 +116,7 @@ Interactive dashboard for B2B sales intelligence. Deal pipeline tracking, revenu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzocarvalhotech&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=143cdc&icon_color=143cdc&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzocarvalhotech&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=143cdc&icon_color=143cdc&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_rank=true&show=reviews,prs_merged" alt="GitHub Stats" />
   <img height="180em" src="https://streak-stats.demolab.com?user=enzocarvalhotech&theme=github-dark-blue&hide_border=true&background=0D1117&ring=143CDC&fire=E8590C&currStreakLabel=143CDC&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </div>
 
