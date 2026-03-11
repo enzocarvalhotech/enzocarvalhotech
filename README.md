@@ -71,12 +71,12 @@ Real-time ops dashboard for AI agents. Multi-model orchestrator (Claude Code + G
 </td>
 <td width="50%" valign="top">
 
-### [gabriellaromano.com.br](https://gabriellaromano.com.br)
-**Luxury Medical Portfolio**
+### [CRM & Sales Dashboard](https://enzodatabi.com)
+**B2B Sales Intelligence**
 
-`GSAP` `Scroll Animations` `Custom Cursor` `Lightbox`
+`Power BI` `DAX` `Data Modeling` `CRM`
 
-Cinematic website with scroll-driven animations, before/after sliders, and a cream + nude-rose luxury design palette.
+Interactive dashboard for B2B sales intelligence. Deal pipeline tracking, revenue analytics, sales rep performance, and customer segmentation with advanced DAX measures.
 
 </td>
 </tr>
