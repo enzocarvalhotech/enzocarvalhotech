@@ -20,7 +20,7 @@
 ```yaml
 name: Enzo Oliveira
 role: AI Solutions Engineer
-company: Jaar Consult
+company: TMC
 location: Brazil (working globally)
 focus:
   - AI Agents & Autonomous Workflows
